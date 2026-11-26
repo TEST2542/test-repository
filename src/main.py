@@ -1,3 +1,5 @@
-# Auth module v1.0
+HEAD
+# Project main module
+feature/ui
 строка 1
 строка 2
